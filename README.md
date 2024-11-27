@@ -5,8 +5,6 @@
 <a href="https://github.com/herwinz"><img src="https://img.shields.io/github/stars/herwinz?style=social"></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=herwinz&color=brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/herwinz)
-![GitHub top language](https://img.shields.io/github/languages/top/herwinz/aws-materi)
 
 ---
 
@@ -26,11 +24,11 @@ I excel in taking on challenging roles, employing analytical skills, and nurturi
 
 ### 🚀 Professional Experience
 
-| Role                  | Company                                    | Period                     | Location          | Type       |
-|-----------------------|--------------------------------------------|---------------------------|-------------------|------------|
-| **DevOps Instructor** | Social Economic Accelerator Lab (SEAL)    | Feb 2024 - Present (10 mo) | Malang, Indonesia | Remote     |
-| **DevOps Engineer**   | Privy                                     | Feb 2023 - Present (1 yr)  | Yogyakarta, Indonesia | Hybrid |
-| **Solutions Architect** | PT. Sinergi Informatika Semen Indonesia | Sep 2016 - Feb 2023 (6+ yrs) | Jakarta, Indonesia | Hybrid |
+| Role                  | Company                                    | Period            | Location          | Type       |
+|-----------------------|--------------------------------------------|-------------------|-------------------|------------|
+| **DevOps Instructor** | [Social Economic Accelerator Lab (SEAL)](https://seal.or.id/) powered by AWS | Feb 2024 - Present | Malang, Indonesia | Remote     |
+| **DevOps Engineer**   | [Privy](https://privy.id/)                | Feb 2023 - Present | Yogyakarta, Indonesia | Hybrid |
+| **Solutions Architect** | [PT. Sinergi Informatika Semen Indonesia (SISI)](https://sisi.id/) | Sep 2016 - Feb 2023 | Jakarta, Indonesia | Hybrid |
 
 ---
 
@@ -38,7 +36,7 @@ I excel in taking on challenging roles, employing analytical skills, and nurturi
 
 | Degree                          | Institution                               | Period         |
 |---------------------------------|------------------------------------------|----------------|
-| Master of Engineering (MEng), Information Technology | Universitas Gadjah Mada (UGM)  | 2024 - 2026    |
+| Master of Engineering (MEng), Information Technology | Universitas Gadjah Mada (UGM)  | 2024 - Present |
 | Bachelor of Applied Science (B.A.Sc.), Computer Engineering | Politeknik Elektronika Negeri Surabaya | 2012 - 2016 |
 
 ---
@@ -46,19 +44,20 @@ I excel in taking on challenging roles, employing analytical skills, and nurturi
 ### 🏆 Licenses & Certifications
 
 - **[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)** – The Linux Foundation (Valid until Nov 2026).  
-- **ACA Cloud Security Certification** – Alibaba Cloud (Valid until Oct 2026).  
-- **ACP Big Data Certification** – Alibaba Cloud (Valid until Jul 2026).  
-- **[Nutanix Certified Professional (NCP-MCI)](https://certification.nutanix.com/)** – Nutanix (Valid until Jul 2026).  
-- **ACA Big Data Certification** – Alibaba Cloud (Valid until Jun 2026).  
-- **Nutanix Certified Associate (NCA)** – Nutanix (Valid until Jun 2026).  
-- **Microsoft Certified: Azure Fundamentals** – Microsoft (Issued Mar 2024).  
-- **ACA Cloud Computing Certification** – Alibaba Cloud (Valid until Feb 2026).  
-- **Professional Cloud Database Engineer** – Google Cloud (Valid until Feb 2026).  
-- **AWS Certified Cloud Practitioner** – Amazon Web Services (AWS) (Valid until Dec 2026).  
-- **Professional Cloud DevOps Engineer** – Google Cloud (Valid until Dec 2025).  
-- **Professional Cloud Architect** – Google Cloud (Valid until Oct 2025).  
-- **Associate Cloud Engineer** – Google Cloud (Valid until Sep 2026).  
-- **IT Project Management** – BNSP (Valid until Dec 2025).  
+- ACA Cloud Security Certification – Alibaba Cloud (Valid until Oct 2026).  
+- ACP Big Data Certification – Alibaba Cloud (Valid until Jul 2026).  
+- Nutanix Certified Professional (NCP-MCI) – Nutanix (Valid until Jul 2026).  
+- ACA Big Data Certification – Alibaba Cloud (Valid until Jun 2026).  
+- Nutanix Certified Associate (NCA) – Nutanix (Valid until Jun 2026).  
+- Microsoft Certified: Azure Fundamentals – Microsoft (Issued Mar 2024).  
+- ACA Cloud Computing Certification – Alibaba Cloud (Valid until Feb 2026).  
+- Professional Cloud Database Engineer – Google Cloud (Valid until Feb 2026).  
+- AWS Certified Cloud Practitioner – Amazon Web Services (AWS) (Valid until Dec 2026).  
+- Professional Cloud DevOps Engineer – Google Cloud (Valid until Dec 2025).  
+- Professional Cloud Architect – Google Cloud (Valid until Oct 2025).  
+- Associate Cloud Engineer – Google Cloud (Valid until Sep 2026).  
+- IT Project Management – BNSP (Valid until Dec 2025).  
+- Oracle Cloud Infrastructure Certified – Oracle (Valid from Mar 2024 to Mar 2026).  
 
 ---
 
@@ -84,4 +83,5 @@ I excel in taking on challenging roles, employing analytical skills, and nurturi
 ![Alibaba Cloud Certified](https://img.shields.io/badge/Alibaba_Cloud-Certified-orange?style=flat-square&logo=alibaba-cloud)
 ![GCP Certified](https://img.shields.io/badge/Google_Cloud-Certified-yellow?style=flat-square&logo=google-cloud)
 ![AWS Certified](https://img.shields.io/badge/AWS_Cloud-Certified-orange?style=flat-square&logo=amazon-aws)
+![Oracle Cloud Certified](https://img.shields.io/badge/Oracle_Cloud-Certified-red?style=flat-square&logo=oracle)
 ![IT Project Management](https://img.shields.io/badge/BNSP-IT_Project_Management-green?style=flat-square)
