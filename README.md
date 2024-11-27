@@ -5,6 +5,7 @@
 <a href="https://github.com/herwinz"><img src="https://img.shields.io/github/stars/herwinz?style=social"></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=herwinz&color=brightgreen)
+![CKA Certified](https://img.shields.io/badge/CKA-Certified-brightgreen?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
