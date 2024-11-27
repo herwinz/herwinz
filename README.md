@@ -1,4 +1,4 @@
-<a href="https://herwinz.github.io"><img src="https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal"></a> <a href="https://www.linkedin.com/in/herwindra/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+<a href="https://herwinz.github.io"><img src="https://img.shields.io/static/v1?label=blog&message=herwinz.github.io&color=teal"></a> <a href="https://www.linkedin.com/in/herwindra/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
 
 ### Hi there 👋
 
