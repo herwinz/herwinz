@@ -1,18 +1,87 @@
-<a href="https://herwinz.github.io"><img src="https://img.shields.io/static/v1?label=blog&message=herwinz.github.io&color=teal"></a> <a href="https://www.linkedin.com/in/herwindra/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+<a href="https://herwinz.github.io"><img src="https://img.shields.io/static/v1?label=blog&message=herwinz.github.io&color=teal"></a>
+<a href="https://www.linkedin.com/in/herwindra/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+<a href="https://twitter.com/herwindra"><img src="https://img.shields.io/twitter/follow/herwindra?style=social"></a>
+<a href="https://github.com/herwinz"><img src="https://img.shields.io/github/followers/herwinz?label=Follow&style=social"></a>
+<a href="https://github.com/herwinz"><img src="https://img.shields.io/github/stars/herwinz?style=social"></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=herwinz&color=brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/herwinz)
+![GitHub top language](https://img.shields.io/github/languages/top/herwinz/aws-materi)
+
+---
 
 ### Hi there 👋
 
-⚡ My name is Herwindra Berlian and I am a **DevOps Engineer** currently working at **Privy**. I focus on enabling seamless CI/CD pipelines, enhancing system reliability, and implementing DevOps best practices to support scalable and secure infrastructure.  
+🧑‍💻 With over 8 years of experience in IT, I have honed my expertise in agile software development practices, showcasing strong analytical, problem-solving, design, implementation, and testing skills for large-scale enterprise applications.  
 
-⚡ I am passionate about continuous learning and sharing knowledge. For those interested in AWS, I’ve compiled learning materials and practical examples in my [AWS Materi](https://github.com/herwinz/aws-materi) repository.  
+⚡ My proficiency extends to:  
+- **Languages & Tools:** Linux, GitLab Runner, YAML, Docker, Terraform, Helm, Vault, FluxCD, CRDs.  
+- **Cloud & Orchestration:** GCP, Kubernetes, Rook Ceph, Deployment Strategies (Blue/Green, Canary).  
+- **Monitoring & Analysis:** Signoz, Clickhouse, Redpanda, Debezium.  
+- **Security:** Opnsense, SAST (Static Application Security Testing).  
 
-⚡ As part of my contributions to **Privy**, I actively support open-source initiatives like the [Privy Infra Atlas project](https://github.com/privy-infra/atlas), where we focus on improving infrastructure as code and streamlining operational workflows.  
+I excel in taking on challenging roles, employing analytical skills, and nurturing effective interpersonal communication to elevate quality and efficiency. My goal is to contribute to the success and profitability of the organization by leveraging my technical skills and experience in a dynamic environment.
 
-⚡ Currently, I’m conducting research for my Master’s thesis at **UGM**, exploring innovative methods for cloud resource optimization and monitoring. This includes developing tools like the [Prometheus Custom Azure Exporter](https://github.com/herwinz/prometheus-custom_azure_exporter) to enhance observability in Azure environments and predictive models for **Cloud Sizing Automation** using time-series forecasting with [Prophet](https://github.com/herwinz/cloudsizing-prophet).  
+---
 
-⚡ I blog about my DevOps experiences at [herwinz.github.io](https://herwinz.github.io).  
+### 🚀 Professional Experience
 
-⚡ To contact me:  
-  - 🌱 Leave a comment on one of my [posts](https://herwinz.github.io)!  
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/herwindra/)  
-  - 🌱 [Tweet me](https://twitter.com/herwindra)  
+| Role                  | Company                                    | Period                     | Location          | Type       |
+|-----------------------|--------------------------------------------|---------------------------|-------------------|------------|
+| **DevOps Instructor** | Social Economic Accelerator Lab (SEAL)    | Feb 2024 - Present (10 mo) | Malang, Indonesia | Remote     |
+| **DevOps Engineer**   | Privy                                     | Feb 2023 - Present (1 yr)  | Yogyakarta, Indonesia | Hybrid |
+| **Solutions Architect** | PT. Sinergi Informatika Semen Indonesia | Sep 2016 - Feb 2023 (6+ yrs) | Jakarta, Indonesia | Hybrid |
+
+---
+
+### 🎓 Education
+
+| Degree                          | Institution                               | Period         |
+|---------------------------------|------------------------------------------|----------------|
+| Master of Engineering (MEng), Information Technology | Universitas Gadjah Mada (UGM)  | 2024 - 2026    |
+| Bachelor of Applied Science (B.A.Sc.), Computer Engineering | Politeknik Elektronika Negeri Surabaya | 2012 - 2016 |
+
+---
+
+### 🏆 Licenses & Certifications
+
+- **[Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)** – The Linux Foundation (Valid until Nov 2026).  
+- **ACA Cloud Security Certification** – Alibaba Cloud (Valid until Oct 2026).  
+- **ACP Big Data Certification** – Alibaba Cloud (Valid until Jul 2026).  
+- **[Nutanix Certified Professional (NCP-MCI)](https://certification.nutanix.com/)** – Nutanix (Valid until Jul 2026).  
+- **ACA Big Data Certification** – Alibaba Cloud (Valid until Jun 2026).  
+- **Nutanix Certified Associate (NCA)** – Nutanix (Valid until Jun 2026).  
+- **Microsoft Certified: Azure Fundamentals** – Microsoft (Issued Mar 2024).  
+- **ACA Cloud Computing Certification** – Alibaba Cloud (Valid until Feb 2026).  
+- **Professional Cloud Database Engineer** – Google Cloud (Valid until Feb 2026).  
+- **AWS Certified Cloud Practitioner** – Amazon Web Services (AWS) (Valid until Dec 2026).  
+- **Professional Cloud DevOps Engineer** – Google Cloud (Valid until Dec 2025).  
+- **Professional Cloud Architect** – Google Cloud (Valid until Oct 2025).  
+- **Associate Cloud Engineer** – Google Cloud (Valid until Sep 2026).  
+- **IT Project Management** – BNSP (Valid until Dec 2025).  
+
+---
+
+### 📊 GitHub Stats
+
+![Herwindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=herwinz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herwinz&layout=compact&theme=radical)
+
+---
+
+### 📫 How to Reach Me
+
+- 🌱 Visit my [blog](https://herwinz.github.io) for insights and projects!  
+- 🌱 Connect with me on [LinkedIn](https://www.linkedin.com/in/herwindra/).  
+- 🌱 Follow me on [Twitter](https://twitter.com/herwindra).
+
+---
+
+### 🏆 Achievements & Highlights
+
+![CKA Certified](https://img.shields.io/badge/Certified-Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure Fundamentals Certified](https://img.shields.io/badge/Azure_Fundamentals-Microsoft-blue?style=flat-square&logo=microsoft)
+![Alibaba Cloud Certified](https://img.shields.io/badge/Alibaba_Cloud-Certified-orange?style=flat-square&logo=alibaba-cloud)
+![GCP Certified](https://img.shields.io/badge/Google_Cloud-Certified-yellow?style=flat-square&logo=google-cloud)
+![AWS Certified](https://img.shields.io/badge/AWS_Cloud-Certified-orange?style=flat-square&logo=amazon-aws)
+![IT Project Management](https://img.shields.io/badge/BNSP-IT_Project_Management-green?style=flat-square)
